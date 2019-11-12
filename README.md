@@ -25,3 +25,26 @@ Thanks
 Demo Results 
 =========
 https://www.youtube.com/
+
+# Citation
+<pre>
+<code>
+T. Hussain, K. Muhammad, A. Ullah, Z. Cao, S. W. Baik and V. H. C. de Albuquerque, "Cloud-Assisted Multi-View Video Summarization using CNN and Bi-Directional LSTM," in IEEE Transactions on Industrial Informatics.
+doi: 10.1109/TII.2019.2929228
+</code>
+</pre>
+
+If you are interested in Video Summarization domain you may find some of my other recent papers worthy to read:
+
+<pre>
+<code>
+K. Muhammad, T. Hussain, and S. W. Baik, "Efficient CNN based summarization of surveillance videos for resource-constrained devices," Pattern Recognition Letters, 2018/08/07/ 2018
+
+Hussain, T., Muhammad, K., Del Ser, J., Baik, S. W., & de Albuquerque, V. H. C. (2019). Intelligent Embedded Vision for Summarization of Multi-View Videos in IIoT. IEEE Transactions on Industrial Informatics.
+
+K. Muhammad, T. Hussain, M. Tanveer, G. Sannino and V. H. C. de Albuquerque, "Cost-Effective Video Summarization using Deep CNN with Hierarchical Weighted Fusion for IoT Surveillance Networks," in IEEE Internet of Things Journal.
+doi: 10.1109/JIOT.2019.2950469
+</code>
+</pre>
+
+
